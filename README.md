@@ -25,8 +25,8 @@ The buy back wallet only activates at a setting holder level. In this case we wi
 
 There are two smart contracts here:
 
-1. The standard BEP20 TOken
-2. The Buy back smart contract
+1. The standard BEP20 Token.
+2. The Buy back smart contract.
 
 ## Token Addresses
 
