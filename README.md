@@ -28,7 +28,13 @@ There are two smart contracts here:
 1. he standard BEP20 TOken
 2. The Buy back smart contract
 
-# NOTE: The standard token has all basic functions of the standard token protocol.
+## Token Addresses
+
+1: Token:
+
+2. Buy Back:
+
+## NOTE: The token has all basic functions of the standard token protocol.
 
 ## Accessible Functions of the BUY Back
 
@@ -44,4 +50,38 @@ This functin returns the holders balance
 
 This function returns the developers balance
 
-4.
+### 4. setAccountPercentages
+
+This function is used to adjust account settings, accessible by only the contract owner/admin
+
+It requires the followiing parameters:
+
+1. BuyBack percentage (Overall i.e 13% reflected above)
+2. holders Percentage,
+3. developers Percentage,
+4. BuyBack Wallet Percent
+
+### 5. getPercentages
+
+This function returns the data above from accounts settings:
+
+1. BuyBack percentage (Overall i.e 13% reflected above)
+2. holders Percentage,
+3. developers Percentage,
+4. BuyBack Wallet Percent
+
+### 6. buyDyzcredit
+
+A non rentrant function that allows the procurement of the DyzeCredit token in BNB
+
+### 7. sellDyzCredit
+
+A non rentrant function that allows the sales of the DyzeCredit token
+
+### 8. getNumberOfholders
+
+This function returns the number of dyzcredit tokens
+
+### 9. getWalletStatus
+
+This function returns the status of the buy back wallet
