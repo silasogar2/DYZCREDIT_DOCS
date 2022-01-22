@@ -1,5 +1,26 @@
 # DYZCREDIT_DOCS
 
+## Project requirement
+
+Each transaction = 13%
+
+6% buy back wallet(BNB)
+5% developer / Marketing( Busd)
+2% to holders ( in Dyzcredits)
+
+Here is how the buyback wallet must operate.
+
+The buyback wallet will be a part of the smart contract, so the bnb can only be used to buy dyzcredit tokens.
+
+The buyback function is automated and dynamic, meaning when it’s activated it will buy back tokens when someone is selling. So basically sells will pump the price or sustain it to keep the price floor, the settings can be set to different levels.
+
+Example
+if someone sells 0,2 bnb the buyback wallet will automatically buyback 0,3 bnb of dyzcredit tokens and will burn them immediately, which make this token very hyper deflationary and gives more value to the tokens you hold due to the burn.
+
+The setting can also be higher and buying back 1 bnb eg, if someone sells 0,2 bnb, it will pump the price and burn the amount it bought back. Sellers will be punished in other words.
+
+The buy back wallet only activates at a setting holder level. In this case we will set it to 3000 holders. Once we hit 3k holders it will start to function.
+
 ## Accessible Functions
 
 ### 1. getBuyBackBalance
