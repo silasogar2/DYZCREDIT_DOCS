@@ -30,9 +30,13 @@ There are two smart contracts here:
 
 ## Token Addresses
 
-1. Token: 0x89939E013D9158E08Dd4dA229c95436C7D67D690
+1. Token: 0xB23460393532899E929913e0c6Cbe3BD6a6d6f41
 
-2. Buy Back:
+2. Buy Back: 0xE545208F65CE78d5Ae876b52c5f1D2f9251A3847
+
+## Repositories
+
+https://github.com/silasogar2/dyzrupt_contracts
 
 ## NOTE: The token has all basic functions of the standard token protocol.
 
