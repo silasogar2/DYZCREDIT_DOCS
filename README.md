@@ -21,7 +21,16 @@ The setting can also be higher and buying back 1 bnb eg, if someone sells 0,2 bn
 
 The buy back wallet only activates at a setting holder level. In this case we will set it to 3000 holders. Once we hit 3k holders it will start to function.
 
-## Accessible Functions
+## Smart contracts
+
+There are two smart contracts here:
+
+1. he standard BEP20 TOken
+2. The Buy back smart contract
+
+# NOTE: The standard token has all basic functions of the standard token protocol.
+
+## Accessible Functions of the BUY Back
 
 ### 1. getBuyBackBalance
 
