@@ -30,7 +30,7 @@ There are two smart contracts here:
 
 ## Token Addresses
 
-1. Token: 0x8407D851DB7F4f0F3518B2cfa7Bd565999e6eE03
+1. Token: 0x89939E013D9158E08Dd4dA229c95436C7D67D690
 
 2. Buy Back:
 
