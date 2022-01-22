@@ -30,7 +30,7 @@ There are two smart contracts here:
 
 ## Token Addresses
 
-1: Token:
+1. Token: 0x8407D851DB7F4f0F3518B2cfa7Bd565999e6eE03
 
 2. Buy Back:
 
@@ -72,11 +72,11 @@ This function returns the data above from accounts settings:
 
 ### 6. buyDyzcredit
 
-A non rentrant function that allows the procurement of the DyzeCredit token in BNB
+A non Reentrant function that allows the procurement of the DyzeCredit token in BNB
 
 ### 7. sellDyzCredit
 
-A non rentrant function that allows the sales of the DyzeCredit token
+A non Reentrant function that allows the sales of the DyzeCredit token
 
 ### 8. getNumberOfholders
 
